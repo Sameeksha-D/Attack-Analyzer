@@ -44,6 +44,12 @@ The analysis workflow follows a structured security assessment pipeline:
 
 ---
 
+### Dashboard View
+
+![Dashboard](images/dashboard.png)
+
+---
+
 ## Threat Detection
 
 The system analyzes incoming activity descriptions and identifies indicators that may represent malicious or suspicious behavior.
@@ -93,11 +99,7 @@ Displayed information may include:
 - Security Recommendations
 - MITRE Technique References
 
-### Dashboard View
 
-![Dashboard](images/dashboard.png)
-
----
 
 ## Benefits
 
